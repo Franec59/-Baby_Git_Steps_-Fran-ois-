@@ -54,3 +54,15 @@ ajout du fichier poney dans la branch dev
 ### 5: ligne unicormeMode
 
 ajout du fichier poney dans la branch dev
+
+### 6: ligne unicormeMode
+
+ajout du fichier poney dans la branch dev
+
+### 7: msvg poney before merge
+
+commit du fichier poney sur la branch dev avant merge
+
+### 8: resolve conflit 1
+
+commit sur la branch master avant merge dev
