@@ -74,3 +74,11 @@ modification de la variable mafusion = 1
 ### 10: changelog forgotten"
 
 commit du readme avant de chnager de branch
+
+### 11: mapremiereerreur = 1
+
+modifiaction de maPremiereErreur = 1 sur dev
+
+### 12: commit master avant merge
+
+commit master pour le readme avant merge dev
