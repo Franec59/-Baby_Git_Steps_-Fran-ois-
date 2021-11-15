@@ -18,7 +18,7 @@
 
 ### Présentation
 
-Je suis un futur devops
+Je suis un futur devops fun !
 
 Poste | Année
 |-----|------|
@@ -37,3 +37,8 @@ Mcdo | 1997 - 2015
 ### 4 variables python
 
 1er commit du projet
+
+### variable 5
+
+ajout d'une 5eme variable
+modif nom du commi Fix1 to variable 5
