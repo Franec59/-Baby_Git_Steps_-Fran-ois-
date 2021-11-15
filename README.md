@@ -82,3 +82,7 @@ modifiaction de maPremiereErreur = 1 sur dev
 ### 12: commit master avant merge
 
 commit master pour le readme avant merge dev
+
+### 13: resolve conflit script.py
+
+resolution du conflit du fichier script => supp variable de la brnache dev
