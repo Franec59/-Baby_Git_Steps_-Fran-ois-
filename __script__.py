@@ -6,3 +6,7 @@ maPremierFusion = 0
 maPremiereErreur = 0
 
 jeVaisMalNommerMonProchainCommit = 1
+
+unicormeMode = 1
+
+

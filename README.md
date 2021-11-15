@@ -18,7 +18,7 @@
 
 ### Présentation
 
-Je suis un futur devops
+Je suis un futur devops fun !
 
 Poste | Année
 |-----|------|
@@ -36,6 +36,7 @@ Mcdo | 1997 - 2015
 
 ### 2: 4 variables python
 
+<<<<<<< HEAD
 modif fichier python, ajout de 4 variables
 
 ### 3: variables 5
