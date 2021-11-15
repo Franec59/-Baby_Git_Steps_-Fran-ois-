@@ -66,3 +66,11 @@ commit du fichier poney sur la branch dev avant merge
 ### 8: resolve conflit 1
 
 commit sur la branch master avant merge dev
+
+### 9: mafusion = 1
+
+modification de la variable mafusion = 1
+
+### 10: changelog forgotten"
+
+commit du readme avant de chnager de branch
