@@ -30,6 +30,6 @@ Mcdo | 1997 - 2015
 
 ## Changelog
 
-### titre du commit
+### initial commit
 
-modifications réalisées
+1er commit du projet
