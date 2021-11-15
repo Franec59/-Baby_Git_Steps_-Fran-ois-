@@ -30,10 +30,21 @@ Mcdo | 1997 - 2015
 
 ## Changelog
 
-### initial commit
+### 1: initial commit
 
 1er commit du projet
 
-### 4 variables python
+### 2: 4 variables python
 
-1er commit du projet
+modif fichier python, ajout de 4 variables
+
+### 3: variables 5
+
+ajout d'une 5éme variable dans python
+### 3: variables 5
+
+ajout d'une 5éme variable dans python
+
+### 4: ajout fichier poney
+
+ajout du fichier poney dans la branch dev
