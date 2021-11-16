@@ -86,3 +86,7 @@ commit master pour le readme avant merge dev
 ### 13: resolve conflit script.py
 
 resolution du conflit du fichier script => supp variable de la brnache dev
+
+### 14: captures
+
+creéation du dossier captures + impr ecran de gitkraken
