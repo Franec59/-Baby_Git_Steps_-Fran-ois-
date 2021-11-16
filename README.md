@@ -90,3 +90,7 @@ resolution du conflit du fichier script => supp variable de la brnache dev
 ### 14: captures
 
 creéation du dossier captures + impr ecran de gitkraken
+
+### 14: capture 2
+
+2eme capture d'écran de gitkraken
