@@ -36,7 +36,6 @@ Mcdo | 1997 - 2015
 
 ### 2: 4 variables python
 
-<<<<<<< HEAD
 modif fichier python, ajout de 4 variables
 
 ### 3: variables 5
@@ -58,6 +57,3 @@ ajout du fichier poney dans la branch dev
 ### 14: ma branch dev
 
 pour la branch devs
-
-### 15 : g tout niqué
-Foutre le feu au projet
